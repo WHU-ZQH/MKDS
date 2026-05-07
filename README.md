@@ -28,11 +28,13 @@ MKDS/
 
 ## Datasets
 
+All datasets are available in our [Hugging Face Collection](https://huggingface.co/collections/ZhongQihuang/mkds).
+
 ### MK-MedInstruct (Ours)
 
 Our synthesized dataset **MK-MedInstruct** (187K+ instruction-response pairs) is available on Hugging Face:
 
-> Coming soon
+> [ZhongQihuang/MK-MedInstruct](https://huggingface.co/datasets/ZhongQihuang/MK-MedInstruct)
 
 Place the downloaded file at `data/ours/MMK-Instruct.json`.
 
