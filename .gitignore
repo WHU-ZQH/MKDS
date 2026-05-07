@@ -1,0 +1,17 @@
+# Claude Code
+CLAUDE.md
+.claude/
+
+# macOS
+.DS_Store
+
+# Large data files (not uploaded to GitHub)
+data/baselines/
+data/ours/MMK-Instruct.json
+
+# Model weights
+huggingface/
+
+# Pipeline intermediate files
+step*.json
+step*.jsonl

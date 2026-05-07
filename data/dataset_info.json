@@ -1,0 +1,44 @@
+{
+  "aquilamedrt": {
+    "file_name": "baselines/aquilamed-instruct_convert.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "mmk": {
+    "file_name": "ours/MMK-Instruct.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "DISC": {
+    "file_name": "baselines/DISC-Med-SFT_released.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "Huatuo": {
+    "file_name": "baselines/Huatuo26M_Lite.json"
+  },
+  "Chinese_medical_dialogue": {
+    "file_name": "baselines/Chinese_medical_dialogue_data.json"
+  },
+  "CMB": {
+    "file_name": "baselines/CMB-train_convert_10%.json"
+  },
+  "medmcqa": {
+    "file_name": "baselines/medmcqa-train-instruction-dataset_convert_10%.json"
+  },
+  "medqa": {
+    "file_name": "baselines/medqa-train-instruction-dataset_convert.json"
+  }
+}
