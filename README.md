@@ -42,15 +42,15 @@ Place the downloaded file at `data/ours/MMK-Instruct.json`.
 
 Download the following baseline datasets and place them under `data/baselines/`:
 
-| File | Source |
-|------|--------|
-| `CMB-train_convert.json` | [CMB](https://github.com/FreedomIntelligence/CMB) |
-| `medmcqa-train-instruction-dataset_convert.json` | [MedMCQA](https://huggingface.co/datasets/medmcqa) |
-| `medqa-train-instruction-dataset_convert.json` | [MedQA](https://github.com/jind11/MedQA) |
-| `aquilamed-instruct_convert.json` | [AquilaMed](https://github.com/FlagAI-Open/Aquila2) |
-| `DISC-Med-SFT_released.json` | [DISC-MedLLM](https://github.com/FudanDISC/DISC-MedLLM) |
-| `Huatuo26M_Lite.json` | [Huatuo-26M](https://github.com/FreedomIntelligence/Huatuo26M) |
-| `Chinese_medical_dialogue_data.json` | [Chinese Medical Dialogue](https://github.com/Toyhom/Chinese-medical-dialogue-data) |
+| File | Download |
+|------|----------|
+| `CMB-train_convert.json` | [Download](https://huggingface.co/datasets/ZhongQihuang/MKDS-Baselines/blob/main/CMB-train_convert.json) |
+| `medmcqa-train-instruction-dataset_convert.json` | [Download](https://huggingface.co/datasets/ZhongQihuang/MKDS-Baselines/blob/main/medmcqa-train-instruction-dataset_convert.json) |
+| `medqa-train-instruction-dataset_convert.json` | [Download](https://huggingface.co/datasets/ZhongQihuang/MKDS-Baselines/blob/main/medqa-train-instruction-dataset_convert.json) |
+| `aquilamed-instruct_convert.json` | [Download](https://huggingface.co/datasets/ZhongQihuang/MKDS-Baselines/blob/main/aquilamed-instruct_convert.json) |
+| `DISC-Med-SFT_released.json` | [Download](https://huggingface.co/datasets/ZhongQihuang/MKDS-Baselines/blob/main/DISC-Med-SFT_released.json) |
+| `Huatuo26M_Lite.json` | [Download](https://huggingface.co/datasets/ZhongQihuang/MKDS-Baselines/blob/main/Huatuo26M_Lite.json) |
+| `Chinese_medical_dialogue_data.json` | [Download](https://huggingface.co/datasets/ZhongQihuang/MKDS-Baselines/blob/main/Chinese_medical_dialogue_data.json) |
 
 ## Data Generation Pipeline
 
